@@ -67,7 +67,7 @@
 <!-- Descrição -->
 ## Descrição
 
-[MensageriaAzure.pdf](https://docs.google.com/viewer?url=${https://github.com/ponci/mrv_dio_mensageria_azure/blob/main/MensageriaAzure.pdf})
+[MensageriaAzure.pdf](https://github.com/ponci/mrv_dio_mensageria_azure/blob/main/MensageriaAzure.pdf)
 
 Este repositório contem o código de exemplo utilizado durante a live .net Experts Mensageria na Azure.
 
