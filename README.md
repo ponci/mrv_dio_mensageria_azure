@@ -33,7 +33,7 @@
   <p align="center">
     Repositório de exemplo para live MRV + dio
     <br />
-    <a href="">Gravação da Live</a>
+    <a href="https://youtu.be/GbUW9_xDCTA">Gravação da Live</a>
   </p>
 </p>
 
